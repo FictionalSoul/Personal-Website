@@ -1,0 +1,27 @@
+body{
+    background-color:#CEE5D0;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color:gray ;
+    border-width:5px;
+    width:5%;
+    
+}
+h1{
+    color: #25316D;
+}
+h3{
+    color:#0960BD;
+}
+.image{
+    background-color:greenyellow;
+    border-radius: 50%;
+}
+img:hover{
+    background-color:gold
+}
+/* .jcbose{
+    background-color:yellowgreen;
+} */
